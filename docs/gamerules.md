@@ -1,4 +1,4 @@
-# Fantasy Soccer Game – Rules & Format
+# fantasy Soccer Game – Rules & Format
 
 ## 1. Overview
 This project is a web-based fantasy soccer game where users create a team of real-life soccer players and earn points based on their performances in matches. The goal is to score more fantasy points than other users over weekly gameweeks and across the season.

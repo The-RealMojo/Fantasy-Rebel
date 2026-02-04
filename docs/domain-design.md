@@ -1,4 +1,4 @@
-# Domain Design – Fantasy Soccer Game
+# Domain Design – fantasy Soccer Game
 
 ## Core Entities (Persisted in Database)
 

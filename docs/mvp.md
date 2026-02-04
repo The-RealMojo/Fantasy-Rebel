@@ -1,4 +1,4 @@
-# Fantasy Soccer Game – MVP Definition
+# fantasy Soccer Game – MVP Definition
 
 ## Goal of the MVP
 The goal of the MVP is to deliver a fully playable fantasy soccer game that demonstrates:
@@ -20,7 +20,7 @@ The MVP prioritizes **core gameplay** over advanced features.
 
 ---
 
-### 2. Fantasy Team Management
+### 2. fantasy Team Management
 - Create a fantasy team
 - Select 8 players within a £50m budget
 - Assign starters and substitutes
